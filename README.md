@@ -1,0 +1,19 @@
+
+# Oracle University - Java 
+
+
+
+#### Author - [@geeky-bhawuk-arora](https://github.com/geeky-bhawuk-arora/)
+
+
+## Topics Learnt
+
+
+| Day | Date     | Topics           |
+| :-------- | :------- | :------------------------- |
+| 20 | 27.05.2024 | Lambda Expression |
+| 21 | 28.05.2024 | Singleton Class, Regular Expression, Var Keyword in Generics |
+| 22 | 29.05.2024 | Lambda Expression |
+
+
+
