@@ -15,6 +15,7 @@
 | 21 | 28.05.2024 | Singleton Class, Regular Expression, Var Keyword in Generics |
 | 22 | 29.05.2024 | Lambda Expression |
 | 23 | 01.07.2024 | Factory Method Pattern |
+| 24 | 02.07.2024 | Multiple Inheritance using Interfaces |
 
 
 
