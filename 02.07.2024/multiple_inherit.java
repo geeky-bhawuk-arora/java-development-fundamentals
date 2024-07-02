@@ -48,15 +48,6 @@ class Testing implements abc, xyz {
  */
 
 interface TestInterface extends abc, xyz {
-    default void display() {
-        xyz.super.display();
-    }
-
-    static void call() {
-        display();
-    }
-
     public static void main(String[] args) {
-        TestInterface.call();
     }
 }
