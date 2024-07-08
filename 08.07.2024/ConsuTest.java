@@ -1,4 +1,5 @@
-// Functional Interfaces
+// Functional Interfaces 
+// Important Interfaces - Consumer, Supplier, Predicate, Function 
 // https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html
 
 import java.util.ArrayList;
@@ -33,6 +34,8 @@ class ConsuTest {
 
         Consumer<List<Integer>> c4 = l -> {
             for (int i = 0; i < l.size(); i++) {
+                l.set(i, 2 * l.get(i)); // Replaces the element at the specified position in this list with the
+                                        // specified element.
                 System.out.println(l.get(i)); // Returns the element at the specified position in this list.
             }
         };
