@@ -15,6 +15,6 @@
 | 24  | 02.07.2024 | Multiple Inheritance using Interfaces                           |
 | 25  | 08.07.2024 | Functional Interfaces (Consumer, Supplier, Predicate, Function) |
 | 26  | 09.07.2024 | Concept of Threads                                              |
-| 27  | 10.07.2024 | Concurrency & Multithreading                                    |
+| 27  | 10.07.2024 | Concurrency, Multithreading                                     |
  
 
