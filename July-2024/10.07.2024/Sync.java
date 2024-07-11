@@ -1,5 +1,7 @@
+// https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html
+
 class Table {
-    void printTable(int n) {
+    synchronized void printTable(int n) {
         for (int i = 1; i <= 5; i++) {
             System.out.println(n * i);
             try {
