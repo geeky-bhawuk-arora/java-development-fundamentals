@@ -5,7 +5,7 @@ class Table {
         for (int i = 1; i <= 5; i++) {
             System.out.println(n * i);
             try {
-                Thread.sleep(1000);
+                Thread.sleep(400);
             } catch (Exception e) {
                 System.out.println(e); // https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/lang/Thread.html#sleep(long)
             }

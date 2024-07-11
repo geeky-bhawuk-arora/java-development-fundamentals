@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="bd23031c-a22f-42f4-a2fe-ec2cda2ab04d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/July-2024/10.07.2024/Concurrency-Synchronization.md" beforeDir="false" afterPath="$PROJECT_DIR$/July-2024/10.07.2024/Concurrency-Synchronization.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July-2024/10.07.2024/Sync.java" beforeDir="false" afterPath="$PROJECT_DIR$/July-2024/10.07.2024/Sync.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July-2024/10.07.2024/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July-2024/10.07.2024/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July-2024/10.07.2024/Sync.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July-2024/10.07.2024/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July-2024/10.07.2024/Test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

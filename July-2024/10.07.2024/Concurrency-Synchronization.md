@@ -30,7 +30,7 @@
 
 - [Java Concurrency Documentation](https://docs.oracle.com/en/java/javase/22/core/concurrency.html#GUID-59C16A2D-57CE-4C83-9D6F-91A48E01E3C6) 📖
 
-### Thread Synchronization
+## Thread Synchronization
 
 - [Thread Synchronization Tutorial](https://docs.oracle.com/javase/tutorial/essential/concurrency/sync.html) 🔗
   
