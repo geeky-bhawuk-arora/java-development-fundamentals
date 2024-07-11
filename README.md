@@ -15,4 +15,4 @@
 | 25  | 08.07.2024 | Functional Interfaces (Consumer, Supplier, Predicate, Function) 📑|
 | 26  | 09.07.2024 | Concept of Threads 🧵                                            |
 | 27  | 10.07.2024 | Concurrency, Multithreading, Synchronisation ⚙️                |
-| 27  | 11.07.2024 | --------------------------                                      |
+| 28  | 11.07.2024 | --------------------------                                      |

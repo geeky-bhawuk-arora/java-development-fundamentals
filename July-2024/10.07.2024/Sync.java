@@ -5,9 +5,9 @@ class Table {
         for (int i = 1; i <= 5; i++) {
             System.out.println(n * i);
             try {
-                Thread.sleep(400);
+                Thread.sleep(1000);
             } catch (Exception e) {
-                System.out.println(e);
+                System.out.println(e); // https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/lang/Thread.html#sleep(long)
             }
         }
     }
