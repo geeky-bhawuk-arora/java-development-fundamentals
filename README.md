@@ -16,3 +16,4 @@
 | 26  | 09.07.2024 | Concept of Threads 🧵                                              |
 | 27  | 10.07.2024 | Concurrency, Multithreading, Thread Synchronization ⚙️             |
 | 28  | 11.07.2024 | Thread Synchronization                                             |
+| 28  | 12.07.2024 | Thread Pool                                                         |
