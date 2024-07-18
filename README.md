@@ -17,3 +17,5 @@
 | 27  | 10.07.2024 | Concurrency, Multithreading, Thread Synchronization ⚙️             |
 | 28  | 11.07.2024 | Thread Synchronization                                             |
 | 29  | 12.07.2024 | Thread Pool                                                         |
+| 30  | 15.07.2024 | Internal Assesment 1                                                        |
+| 31  | 18.07.2024 | ----------------------                                                         |
