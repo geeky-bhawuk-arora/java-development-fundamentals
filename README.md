@@ -18,4 +18,5 @@
 | 28  | 11.07.2024 | Thread Synchronization                                            |
 | 29  | 12.07.2024 | Thread Pool                                                       |
 | 30  | 15.07.2024 | Internal Assessment 1                                             |
-| 31  | 18.07.2024 | Streams                                                           |
+| 31  | 18.07.2024 | Stream API                                                            |
+| 32  | 19.07.2024 | Stream API - Array                                                       |
