@@ -10,8 +10,8 @@ class ArrayStream4 {
     private static void func(List<Integer> list) {
         List<Integer> startsTwo = list.stream()
                 .map(n -> String.valueOf(n))
-                .filter(n -> n.startswith("2"))
-                .map(Integer::valueOf())
+                .filter(n -> n.startsWith("2"))
+                .map(Integer::valueOf)
         .collect(Collectors.toList());
         System.out.println(startsTwo);
 
