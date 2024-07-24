@@ -1,16 +1,17 @@
-### Folder Structure
+## Folder Structure
 
+### Before Compiling
 ```
 src/
     bhawuk/
-        abc/
-            xyz/
-                Hello.java
-        pqr/
-        module-info.java
-```
+            abc/
+                xyz/
+                    Hello.java
+            pqr/
+            module-info.java
 
-` javac -d mods --module-source-path src/ --module bhawuk `
+javac -d mods --module-source-path src/ --module bhawuk 
+```
 
 ### After Compiling
 
@@ -21,7 +22,8 @@ mods/
                 xyz/
                     Hello.class
             pqr/
+
+java --module-path mods/ --module bhawuk/abc.xyz.java ```
 ```
 
-` java --module-path mods/ --module bhawuk/abc.xyz.java `
 
