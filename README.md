@@ -9,9 +9,9 @@
 
 | Day | Date       | Topics                                                            |
 |:----|:-----------|:------------------------------------------------------------------|
-| 6  | 06.05.2024 | ---------                                                   |
-| 7  | 07.05.2024 | ----------                                                   |
-| 8  | 09.05.2024 | ---------                                                |
+| 6   | 06.05.2024 | ---------                                                         |
+| 7   | 08.05.2024 | Enumeration, Creating Jar File, Var Keyword |                                                         
+| 8   | 09.05.2024 | ---------                                                         |
 | 20  | 27.05.2024 | Queue Interface                                                   |
 | 21  | 28.05.2024 | Singleton Class, Regular Expression, Var Keyword in Generics      |
 | 22  | 29.05.2024 | Lambda Expression                                                 |
@@ -23,5 +23,7 @@
 | 28  | 11.07.2024 | Thread Synchronization                                            |
 | 29  | 12.07.2024 | Thread Pool                                                       |
 | 30  | 15.07.2024 | Internal Assessment 1                                             |
-| 31  | 18.07.2024 | Stream API                                                            |
-| 32  | 19.07.2024 | Stream API - Array                                                       |
+| 31  | 18.07.2024 | Stream API                                                        |
+| 32  | 19.07.2024 | Stream API                                                        |
+| 33  | 25.07.2024 | Modules                                                           |
+

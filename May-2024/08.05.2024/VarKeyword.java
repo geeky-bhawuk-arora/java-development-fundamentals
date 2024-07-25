@@ -1,5 +1,5 @@
 
-public class CoreJava {
+class VarKeyword {
 //    var z = 42; // var -> Global mei allowed nhi hei
 //    var show() {
 //        Not Allowed -> Var type ka
@@ -18,8 +18,8 @@ public class CoreJava {
         // var -> it's not a keyword; special word that can be used to represent data types; 
 //        identfier bhi use kr sakte hei
         
-        CoreJava obj = new CoreJava();
-        var ob = new CoreJava(); // Allowed -> ob ka type = kei bad deccide ho jayega
+        VarKeyword obj = new VarKeyword();
+        var ob = new VarKeyword(); // Allowed -> ob ka type = kei bad deccide ho jayega
     }
 }
 // Generic, Collections mei use kr sakege (Later)
