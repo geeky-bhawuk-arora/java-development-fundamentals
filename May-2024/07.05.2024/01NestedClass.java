@@ -1,5 +1,5 @@
 
-public class demo {
+class demo {
 
     private int a = 100;
 

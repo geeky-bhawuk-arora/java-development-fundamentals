@@ -1,5 +1,5 @@
 
-public class IPL {
+lass IPL {
     static int a = 19;
     static void show() {
         System.out.println("Hallo Bhawuk!");
