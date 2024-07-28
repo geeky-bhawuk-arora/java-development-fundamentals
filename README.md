@@ -9,7 +9,7 @@
 
 | Day | Date       | Topics                                                            |
 |:----|:-----------|:------------------------------------------------------------------|
-| 6   | 06.05.2024 | ---------                                                         |
+| 6   | 06.05.2024 | ---------                                                        |
 | 7   | 07.05.2024 | Array, Implementing and Overriding Interface, Nested Class, Super Keyword |
 | 8   | 08.05.2024 | Enumeration, Jar File Creation, Var Keyword                       |                                                         
 | 9   | 09.05.2024 | Garbage Collection, Static Block, Instance Block                  |
