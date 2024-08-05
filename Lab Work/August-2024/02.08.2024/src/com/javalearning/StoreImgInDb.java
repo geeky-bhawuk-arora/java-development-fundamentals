@@ -21,12 +21,12 @@ class StoreImgInDb {
 
     public static void main(String[] args) {
         try {
-//            Class.forName("com.mysql.cj.jdbc.Driver");
+//          Class.forName("com.mysql.cj.jdbc.Driver");
             Class.forName("org.postgresql.Driver");
-//            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bhawuk", "root", "bhawuk42");
+//           Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bhawuk", "root", "bhawuk42");
             Connection con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/DemoDb", "postgres", "bhawuk42");
-            PreparedStatement ps = con.prepareStatement("INSERT INTO TeamImage (name, image) VALUES (?, ?)");
-            FileInputStream fis = new FileInputStream("C:\\Projects\\rcat-core-java\\Lab Work\\August-2024\\02.08.2024\\src\\com\\javalearning\\img1.jpg");
+            PreparedStatement ps = con.prepareStatement("INSERT INTO teamimage (name, image) VALUES (?, ?)");
+            FileInputStream fis = new FileInputStream("img1.jpg");
             
             ps.setString(1, "Bhaw");
             ps.setBinaryStream(2, fis, fis.available());
