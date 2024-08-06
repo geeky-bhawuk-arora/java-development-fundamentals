@@ -12,28 +12,27 @@ import java.sql.*;
 //    name VARCHAR(255) NOT NULL,
 //    image LONGBLOB NOT NULL
 //);
-
 /**
  *
  * @author RCAT
  */
-class StoreImgInDb {
+class StoreImg {
 
     public static void main(String[] args) {
         try {
-//          Class.forName("com.mysql.cj.jdbc.Driver");
-            Class.forName("org.postgresql.Driver");
-//           Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bhawuk", "root", "bhawuk42");
-            Connection con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/DemoDb", "postgres", "bhawuk42");
+            Class.forName("com.mysql.cj.jdbc.Driver");
+//            Class.forName("org.postgresql.Driver");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bhawuk", "root", "bhawuk42");
+//            Connection con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/DemoDb", "postgres", "bhawuk42");
             PreparedStatement ps = con.prepareStatement("INSERT INTO teamimage (name, image) VALUES (?, ?)");
             FileInputStream fis = new FileInputStream("img1.jpg");
-            
+
             ps.setString(1, "Bhaw");
             ps.setBinaryStream(2, fis, fis.available());
-            
+
             int i = ps.executeUpdate();
             System.out.println(i + " records affected");
-            
+
             con.close();
         } catch (Exception e) {
             e.printStackTrace();

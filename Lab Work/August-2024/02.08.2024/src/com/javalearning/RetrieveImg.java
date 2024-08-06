@@ -5,20 +5,21 @@
 package com.javalearning;
 
 import java.io.FileOutputStream;
+import java.io.IOException;
 import java.sql.*;
 
 /**
  *
  * @author RCAT
  */
-class RetrieveImgFromDb {
+class RetrieveImg {
 
     public static void main(String[] args) {
         try {
-//            Class.forName("com.mysql.cj.jdbc.Driver");
-            Class.forName("org.postgresql.Driver");
-//            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bhawuk", "root", "bhawuk42");
-            Connection con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/DemoDb", "postgres", "bhawuk42");
+            Class.forName("com.mysql.cj.jdbc.Driver");
+//            Class.forName("org.postgresql.Driver");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bhawuk", "root", "bhawuk42");
+//            Connection con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/DemoDb", "postgres", "bhawuk42");
 
             PreparedStatement ps = con.prepareStatement("select * from TeamImage");
             ResultSet rs = ps.executeQuery();
@@ -32,7 +33,7 @@ class RetrieveImgFromDb {
             }
             System.out.println("Ok");
             con.close();
-        } catch (Exception e) {
+        } catch (IOException | ClassNotFoundException | SQLException e) {
             e.printStackTrace();
         }
     }
