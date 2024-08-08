@@ -5,23 +5,29 @@
 
 ## Topics Learnt 
 
+### Total Days - 44 (Till 08.08.2024)
 
 | Day | Date       | Topics                                                                                                          |
 |:----|:-----------|:----------------------------------------------------------------------------------------------------------------|
+| 1   | ---        | ----                                                                                                            |
+| 2   | ---        | ----                                                                                                            |
+| 3   | ---        | ----                                                                                                            |
+| 4   | ---        | ----                                                                                                            |
+| 5   | ---        | ----                                                                                                            |
 | 6   | 06.05.2024 | ----                                                                                                            |
 | 7   | 07.05.2024 | Array, Implementing and Overriding Interface, Nested Class, Super Keyword                                       |
 | 8   | 08.05.2024 | Enumeration, Jar File Creation, Var Keyword                                                                     |                                                         
 | 9   | 09.05.2024 | Garbage Collection, Static Block, Instance Block                                                                |
-| -   | 13.05.2024 | Big Decimal v/s Float, Double v/s Float, Functions on Big Decimal, Switch Case, Labelled Loop, Ternary Operator |
-| -   | ---        | ----                                                                                                            |
-| -   | ---        | ----                                                                                                            |
-| -   | ---        | ----                                                                                                            |
-| -   | ---        | ----                                                                                                            |
-| -   | ---        | ----                                                                                                            |
-| -   | ---        | ----                                                                                                            |
-| -   | ---        | ----                                                                                                            |
-| -   | ---        | ----                                                                                                            |
-| -   | ---        | ----                                                                                                            |
+| 10  | 13.05.2024 | Big Decimal v/s Float, Double v/s Float, Functions on Big Decimal, Switch Case, Labelled Loop, Ternary Operator |
+| 11  | ---        | ----                                                                                                            |
+| 12  | ---        | ----                                                                                                            |
+| 13  | ---        | ----                                                                                                            |
+| 14  | ---        | ----                                                                                                            |
+| 15  | ---        | ----                                                                                                            |
+| 16  | ---        | ----                                                                                                            |
+| 17  | ---        | ----                                                                                                            |
+| 18  | ---        | ----                                                                                                            |
+| 19  | ---        | ----                                                                                                            |
 | 20  | 27.05.2024 | Queue Interface                                                                                                 |
 | 21  | 28.05.2024 | Singleton Class, Regular Expression, Var Keyword in Generics                                                    |
 | 22  | 29.05.2024 | Lambda Expression                                                                                               |
@@ -41,6 +47,7 @@
 | 36  | 02.08.2024 | JDBC API                                                                                                        |
 | 37  | 05.08.2024 | ----                                                                                                            |
 | 38  | 06.08.2024 | Annotations                                                                                                     |
+| 39  | 09.08.2024 | Logging API                                                                                                     |
 
 
 
