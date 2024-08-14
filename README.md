@@ -5,7 +5,7 @@
 
 ## Topics Learnt 
 
-### Total Days - 46 (Till 14.08.2024)
+### Total Days - 44 (Till 08.08.2024)
 
 | Day | Date       | Topics                                                                                                          |
 |:----|:-----------|:----------------------------------------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@
 | 22  | 29.05.2024 | Lambda Expression                                                                                               |
 | 23  | 01.07.2024 | Factory Method Pattern                                                                                          |
 | 24  | 02.07.2024 | Multiple Inheritance using Interfaces                                                                           |
-| 25  | 08.07.2024 | Fun~~ctional Interfaces (Consumer, Supplier, Predicate, Function)                                               |
+| 25  | 08.07.2024 | Functional Interfaces (Consumer, Supplier, Predicate, Function)                                                 |
 | 26  | 09.07.2024 | Concept of Threads                                                                                              |
 | 27  | 10.07.2024 | Concurrency, Multithreading, Thread Synchronization                                                             |
 | 28  | 11.07.2024 | Thread Synchronization                                                                                          |
@@ -48,8 +48,8 @@
 | 37  | 05.08.2024 | ----                                                                                                            |
 | 38  | 06.08.2024 | Annotations                                                                                                     |
 | 39  | 09.08.2024 | Logging API                                                                                                     |
-| 40  | 13.08.2024 | Java Networking                                                                                                 |
-| 41  | 14.08.2024 | Java Security                                                                                                   |
+
+
 
 
 
