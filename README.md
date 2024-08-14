@@ -48,6 +48,8 @@
 | 37  | 05.08.2024 | ----                                                                                                            |
 | 38  | 06.08.2024 | Annotations                                                                                                     |
 | 39  | 09.08.2024 | Logging API                                                                                                     |
+| 40  | 13.08.2024 | Networking API                                                                                                  |
+| 41  | 14.08.2024 | Java Security                                                                                                   |
 
 
 
