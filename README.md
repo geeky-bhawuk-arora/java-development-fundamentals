@@ -5,7 +5,7 @@
 
 ## Topics Learnt 
 
-### Total Days - 48 (Till 23.08.2024)
+### Total Days - 47 (Till 23.08.2024)
 
 | Day | Date       | Topics                                                                                                          |
 |:----|:-----------|:----------------------------------------------------------------------------------------------------------------|
@@ -50,8 +50,9 @@
 | 39  | 09.08.2024 | Logging API                                                                                                     |
 | 40  | 13.08.2024 | Networking API                                                                                                  |
 | 41  | 14.08.2024 | Java Security                                                                                                   |
-| --  | 22.08.2024 | Quiz-5                                                                                                          |
-| --  | 23.08.2024 | Quiz-6                                                                                                          |
+| --  | 21.08.2024 | Quiz-5                                                                                                          |
+| --  | 22.08.2024 | Quiz-6                                                                                                          |
+| 42  | 23.08.2024 | Countdown, Beep, Storing and Retrieving Key, strictfp Keyword                                                                                               |
 
 
 
