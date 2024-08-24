@@ -52,7 +52,7 @@
 | 41  | 14.08.2024 | Java Security                                                                                                   |
 | --  | 21.08.2024 | Quiz-5                                                                                                          |
 | --  | 22.08.2024 | Quiz-6                                                                                                          |
-| 42  | 23.08.2024 | Countdown, Beep, Storing and Retrieving Key, strictfp Keyword                                                   |                                                                                           
+| 42  | 23.08.2024 | Countdow, Beep, Storing and Retrieving Key, strictfp Keyword                                                   |                                                                                           
 
 
 
