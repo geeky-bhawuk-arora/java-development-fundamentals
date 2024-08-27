@@ -1,11 +1,11 @@
-# R-CAT :  Java Development on Oracle Cloud 
+ko# R-CAT :  Java Development on Oracle Cloud 
 
 #### Maintainer - [@geeky-bhawuk-arora](https://github.com/geeky-bhawuk-arora/) 👨‍💻
 #### Documentation - [Oracle Java Docs](https://docs.oracle.com/en/java/javase/11/docs/api/) 📚
 
 ## Topics Learnt 
 
-### Total Days - 48 (Till 23.08.2024)
+### Total Days - 49 (Till 23.08.2024)
 
 | Day | Date       | Topics                                                                                                          |
 |:----|:-----------|:----------------------------------------------------------------------------------------------------------------|
@@ -50,34 +50,8 @@
 | 39  | 09.08.2024 | Logging API                                                                                                     |
 | 40  | 13.08.2024 | Networking API                                                                                                  |
 | 41  | 14.08.2024 | Java Security                                                                                                   |
-| 42  | 22.08.2024 | Quiz-5                                                                                                          |
-| 43  | 23.08.2024 | Quiz-6                                                                                                          |
-| 44  | 27.08.2024 | Doubts Session                                                                                                          |
-| 45  | 23.08.2024 | Quiz-6                                                                                                          |
-| 46  | 23.08.2024 | Quiz-6                                                                                                          |
-| 47  | 23.08.2024 | Quiz-6                                                                                                          |
-| 48  | 23.08.2024 | Quiz-6                                                                                                          |
-| 49  | 23.08.2024 | Quiz-6                                                                                                          |
-| 50  | 23.08.2024 |                                                                                                           |
-| 51  | 23.08.2024 | Quiz-6                                                                                                          |
-| 52  | 23.08.2024 | Quiz-6                                                                                                          |
-| 53  | 23.08.2024 | Quiz-6                                                                                                          |
-| 54  | 23.08.2024 | Quiz-6                                                                                                          |
-| 55  | 23.08.2024 | Quiz-6                                                                                                          |
-| 56  | 23.08.2024 | Quiz-6                                                                                                          |
-| 57  | 23.08.2024 | Quiz-6                                                                                                          |
-| 58  | 23.08.2024 | Quiz-6                                                                                                          |
-| 59  | 23.08.2024 | Quiz-6                                                                                                          |
-| 60  | 23.08.2024 | Quiz-6                                                                                                          |
-| 61  | 23.08.2024 | Quiz-6                                                                                                          |
-| 62  | 23.08.2024 | Quiz-6                                                                                                          |
-| 63  | 23.08.2024 | Quiz-6                                                                                                          |
-| 64  | 23.08.2024 | Quiz-6                                                                                                          |
-| 65  | 23.08.2024 | Quiz-6                                                                                                          |
-| 66  | 23.08.2024 | Quiz-6                                                                                                          |
-
-
-
+| --  | 22.08.2024 | Quiz-5                                                                                                          |
+| --  | 23.08.2024 | Quiz-6                                                                                                          |
 
 
 
