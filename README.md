@@ -52,7 +52,7 @@ ko# R-CAT :  Java Development on Oracle Cloud
 | 41  | 14.08.2024 | Java Security                                                                                                   |
 | --  | 22.08.2024 | Quiz-5                                                                                                          |
 | --  | 23.08.2024 | Quiz-6                                                                                                          |
-
+hello 
 
 
 
