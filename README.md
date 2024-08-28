@@ -38,7 +38,7 @@
 | 27  | 10.07.2024 | Concurrency, Multithreading, Thread Synchronization                                                             |
 | 28  | 11.07.2024 | Thread Synchronization                                                                                          |
 | 29  | 12.07.2024 | Thread Pool                                                                                                     |
-| 30  | 15.07.2024 | Internal Assessment 1                                                                                           |
+| 30  | 15.07.2024 | Quiz-2                                                                                                          |
 | 31  | 18.07.2024 | Stream API                                                                                                      |
 | 32  | 19.07.2024 | Stream API                                                                                                      |
 | 33  | 24.07.2024 | Modules                                                                                                         |
@@ -50,9 +50,10 @@
 | 39  | 09.08.2024 | Logging API                                                                                                     |
 | 40  | 13.08.2024 | Networking API                                                                                                  |
 | 41  | 14.08.2024 | Java Security                                                                                                   |
-| --  | 22.08.2024 | Quiz-5                                                                                                          |
-| --  | 23.08.2024 | Quiz-6                                                                                                          |
-| 42  | 28.08.2024 |Localization                                                                                                          |
+| 42  | 21.08.2024 | Quiz-5                                                                                                          |
+| 43  | 22.08.2024 | Quiz-6                                                                                                          |
+| 44  | 23.08.2024 |                                                                                                           |
+| 45  | 28.08.2024 | Try with Resources, Localization                                                                                |
 
 
 
