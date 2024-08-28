@@ -1,11 +1,11 @@
-ko# R-CAT :  Java Development on Oracle Cloud 
+# R-CAT :  Java Development on Oracle Cloud 
 
 #### Maintainer - [@geeky-bhawuk-arora](https://github.com/geeky-bhawuk-arora/) 👨‍💻
 #### Documentation - [Oracle Java Docs](https://docs.oracle.com/en/java/javase/11/docs/api/) 📚
 
 ## Topics Learnt 
 
-### Total Days - 49 (Till 23.08.2024)
+### Total Days - 51 (Till 28.08.2024)
 
 | Day | Date       | Topics                                                                                                          |
 |:----|:-----------|:----------------------------------------------------------------------------------------------------------------|
@@ -52,7 +52,8 @@ ko# R-CAT :  Java Development on Oracle Cloud
 | 41  | 14.08.2024 | Java Security                                                                                                   |
 | --  | 22.08.2024 | Quiz-5                                                                                                          |
 | --  | 23.08.2024 | Quiz-6                                                                                                          |
-hello 
+| 42  | 28.08.2024 |Localization                                                                                                          |
+
 
 
 
