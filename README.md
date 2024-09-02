@@ -1,6 +1,6 @@
 # R-CAT :  Java Development on Oracle Cloud 
 
-#### Maintainer - [@geeky-bhawuk-arora](https://github.com/geeky-bhawuk-arora/) 👨‍💻
+#### Author - [@geeky-bhawuk-arora](https://github.com/geeky-bhawuk-arora/) 👨‍💻
 #### Documentation - [Oracle Java Docs](https://docs.oracle.com/en/java/javase/11/docs/api/) 📚
 
 ## Topics bahwukLearnt 
