@@ -56,6 +56,7 @@
 | 45  | 28.08.2024 | Try with Resources, Localization                                                                                |
 | 46  | 29.08.2024 | File Handling                                                                                                   |
 | 47  | 30.08.2024 | Quiz-7                                                                                                          |
+| 48  | 03.09.2024 | Doubt Solving of Quiz-7                                                                                         |
 
 
 
