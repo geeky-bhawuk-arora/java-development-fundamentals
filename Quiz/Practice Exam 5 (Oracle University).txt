@@ -1,0 +1,61 @@
+Question 1)
+
+Given:
+
+Path someFile = Path.of("/","users","joe","docs","some.txt");
+Path justSomeFile = someFile.getFileName();
+Path docsFolder = someFile.getParent();
+Path currentFolder = docsFolder.relativize(someFile);
+System.out.println(currentFolder);
+
+What is the output of this code?
+
+
+Question 2)
+
+Given the code fragment:
+
+public class MyInClass {
+    public static void main(String[] args) {
+        String s = "";
+        try (BufferedReader in = new BufferedReader(new InputStreamReader(System.in))) {
+            System.out.print("Type e to exit: ");
+            s = in.readLine();
+            while (s != null) {
+                System.out.println("Output: " + s.trim());
+                if (s.equals("e")) {
+                    System.exit(0);
+                }
+                System.out.print("Type e to exit: ");
+                s = in.readLine();
+            }
+        } catch (IOException e) {
+            System.out.println("Exception: " + e);
+        }
+    }
+}
+
+
+Given:
+
+public String pickName(){
+    List names = List.of("Barclay", "Barry", "Bert", "Bort");
+    /*line 1*/
+    return names.stream()
+        .filter(n -> n.contains("Bart"))
+        .findAny()
+        /*line 2*/;
+}
+
+Which changes, made independently, compile and do not throw any exceptions? (Choose two)
+Change the method return type from String to Optional.
+
+Change the method return type from String to Stream.
+
+Insert .get() at line 2.
+
+Insert .orElse("Not Found") at line 2.
+
+Insert names.add("Bart"); at line 1.
+
+What is the result when you enter null while executing this program?

@@ -3,8 +3,8 @@
 #### Author - [@geeky-bhawuk-arora](https://github.com/geeky-bhawuk-arora/) 👨‍💻
 #### Documentation - [Oracle Java Docs](https://docs.oracle.com/en/java/javase/11/docs/api/) 📚
 
-## Topics Learnt gjgj
-tf
+## Topics Learnt 
+
 ### Total Days - 53 (Till 30.08.2024)
 
 | Day | Date       | Topics                                                                                                          |
