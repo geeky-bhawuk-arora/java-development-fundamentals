@@ -1,13 +1,13 @@
-# Java Learning & OCPJD Practice Quizzes
+ # Java Learning & OCPJD Practice Quizzes
 
 ## Java Learning Quizzes
 
 | Sr. No. | Name                  | Link                                                                                      | Comments         |
 |--------:|-----------------------|-------------------------------------------------------------------------------------------|------------------|
-| 1       | Java Learning Quiz-1  | https://forms.gle/caKKduMQZZV9xCCz6                                                       |                  |
-| 2       | Java Learning Quiz-2  | https://forms.gle/caKKduMQZZV9xCCz6                                                       |                  |
-| 3       | Java Learning Quiz-3  | https://forms.gle/w7nZWE2zPemct5qt9                                                       |                  |
-| 4       | Java Learning Quiz-4  | https://forms.gle/FmGLi9615rP2uB6F6                                                       |                  |
+| 1       | Java Learning Quiz-1  | https://forms.gle/caKKduMQZZV9xCCz6                                                       |  Done                |
+| 2       | Java Learning Quiz-2  | https://forms.gle/caKKduMQZZV9xCCz6                                                       |     Done             |
+| 3       | Java Learning Quiz-3  | https://forms.gle/w7nZWE2zPemct5qt9                                                       |     Done             |
+| 4       | Java Learning Quiz-4  | https://forms.gle/FmGLi9615rP2uB6F6                                                       |    Done              |
 | 5       | Java Learning Quiz-5  | https://forms.gle/Yoix99nB5Ss44JiNA                                                       |                  |
 | 6       | Java Learning Quiz-6  | https://forms.gle/svBB87pUbSTJK72K7                                                       |                  |
 | 7       | Java Learning Quiz-7  | https://forms.gle/LifDiuWGB6ZF76Py5                                                       |                  |
